@@ -1,6 +1,6 @@
 # Wishing Well API Documentation
 
-<img src="https://github.com/elwellb/WishingWell/blob/main/project_sketch.webp?raw=true" width="250">
+<img src="https://github.com/elwellb/WishingWell/blob/main/project_sketch.webp?raw=true" width="500">
 
 ## Overview
 
